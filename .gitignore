@@ -1,0 +1,49 @@
+# Arquivos do Python
+*.pyc
+*.pyo
+__pycache__/
+*.sqlite3
+
+# Arquivos do ambiente virtual
+venv/
+env/
+*.env
+# Arquivos do Python
+*.pyc
+*.pyo
+__pycache__/
+*.sqlite3
+
+# Arquivos do ambiente virtual
+venv/
+env/
+*.env
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do editor (VS Code)
+.vscode/
+.idea/
+
+# Arquivos do Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do editor (VS Code)
+.vscode/
+.idea/
+
+# Arquivos do Django
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
